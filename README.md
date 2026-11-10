@@ -96,3 +96,4 @@ else:
 <img width="1061" height="555" alt="image" src="https://github.com/user-attachments/assets/dd2d30b8-5dff-4baf-b01f-66b4a3e7dbfc" />
 
 **Result:**
+Thus the Web Scraping On e-commerce platform using BeautifulSoup is executed successfully
